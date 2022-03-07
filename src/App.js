@@ -1,14 +1,10 @@
-import React, { Component } from 'react'
+import React from 'react'
+import Todo from './components/Todo'
 
-export class App extends Component {
-  render() {
-    return (
-      <div>
-        <h1>App Component</h1>
-        <div className="btn btn-primary">Test</div>
-      </div>
-    )
-  }
+export default function App() {
+  return (
+    <div>
+      <Todo/>
+    </div>
+  )
 }
-
-export default App

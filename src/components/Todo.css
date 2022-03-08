@@ -1,3 +1,9 @@
-.my-input{
-    width: 15rem;
+.my-input {
+  width: 15rem;
+}
+
+.remove-all-btn {
+  display: flex;
+  position: absolute;
+  top: 10%;
 }

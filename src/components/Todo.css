@@ -1,9 +1,10 @@
 .my-input {
   width: 15rem;
 }
+.remove-all{
+  text-align: center;
+}
 
 .remove-all-btn {
-  display: flex;
-  position: absolute;
-  top: 10%;
+  position: relative;
 }

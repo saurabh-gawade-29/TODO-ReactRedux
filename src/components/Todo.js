@@ -67,15 +67,23 @@ export default function Todo() {
             </div>
             {/* Section 4: Remove All Button */}
             <div className="remove-all">
-              <i className="fa-solid fa-eraser btn btn-outline-info remove-all-btn"
-              onClick={
-                ()=>{
-                  dispatch(removeTodo())
-                }
-              }
+              <i
+                className="fa-solid fa-eraser btn btn-outline-info remove-all-btn"
+                onClick={() => {
+                  dispatch(removeTodo());
+                }}
               >
                 _Remove All
               </i>
+            </div>
+            <div className="note-all my-4">
+              <h6 className="text-light">
+                ❌ Note: Do Not Reload / Refresh the Page ❌
+              </h6>
+              <p className="text-muted">
+                🔜 No Local Storage or No Backend DB setup 🔜
+              </p>
+              <p className="text-muted">👍 We Will update as soon as possible 👍</p>
             </div>
           </div>
         </div>

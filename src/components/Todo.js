@@ -45,7 +45,7 @@ export default function Todo() {
               {list.map((element) => {
                 return (
                   <div className="row" key={element.id}>
-                    <div className="col-md-6 offset-3">
+                    <div className="col-md-12">
                       <div className="d-flex justify-content-center">
                         <div className="card mb-2">
                           <div className="card-header text-truncate">

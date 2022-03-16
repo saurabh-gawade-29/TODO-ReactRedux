@@ -80,10 +80,10 @@ export default function Todo() {
               <h6 className="text-light">
                 ❌ Note: Do Not Reload / Refresh the Page ❌
               </h6>
-              <p className="text-muted">
-                🔜 No Local Storage or No Backend DB setup 🔜
-              </p>
-              <p className="text-muted">👍 We Will update as soon as possible 👍</p>
+              <h6 className="text-muted">
+                🔜 No Backend DB setup 🔜
+              </h6>
+              <h6 className="text-muted">👍 We Will update as soon as possible 👍</h6>
             </div>
           </div>
         </div>

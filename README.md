@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-[TODO-ReactRedux](https://redux.js.org/introduction/getting-started](https://todo-react-redux-2925.herokuapp.com)
+[Todo-App-Preview](https://todo-react-redux-2925.herokuapp.com)
 
 ## Appendix
 

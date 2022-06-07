@@ -2,16 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+[Todo-App-Preview](https://todo-react-redux-2925.herokuapp.com)
+
 ## Documentation
 
 [Redux](https://redux.js.org/introduction/getting-started)
 
 [Redux Devtools](https://github.com/reduxjs/redux-devtools)
-
-
-## Demo
-
-[Todo-App-Preview](https://todo-react-redux-2925.herokuapp.com)
 
 ## Appendix
 
